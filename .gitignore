@@ -1,0 +1,4 @@
+echo "linux-7.2.11/" >> .gitignore
+echo "busybox/" >> .gitignore
+echo "app/my_lvgl_app" >> .gitignore
+echo "*.cpio.gz" >> .gitignore
